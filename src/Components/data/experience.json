@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developement 6 month Intern ",
+    "organisation": "Muverity Consultancy Services",
+    "startDate": " Jan, 2023 ",
+    "endDate": "july,2023",
+    "location": "Muverity Consultancy Services Pune Maharashtra",
+    "experiences": [
+      "Front-end UI developement",
+      "React js ",
+      "HTML 5 ",
+      "CSS 3",
+      "javascript",
+      "Bootstrap 5"
+
+    ],
+    "imageSrc": "company/logon.jpg"
+  },
+  {
+    "id": 1,
+    "role": "Web Developement 6 month Work Experience ",
+    "": "Muverity Consultancy Services",
+    "startDate": " Aug, 2023 ",
+    "endDate": "jan,2024",
+    "location": " Muverity Consultancy Services Pune Maharashtra",
+    "experiences": [
+      "Front-end UI developement",
+      "React js "
+    ],
+    "imageSrc": "company/logon.jpg"
+  }
+  
+]

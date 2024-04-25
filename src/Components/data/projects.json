@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "title": "website for services",
+    "imageSrc":  "./assits/hero/spdc.png",
+    "description": "This is a project made with HTML,CSS,JS,BOOTSTRAP 5.",
+    "demo": "https://www.specificdc.com/residentalprojects.html",
+    "source": "https://github.com/yunustulajapure1234"
+  },
+  {
+    "key": 2,
+    "title": "Grand Hotel",
+    "imageSrc":"./assits/hero/hotel.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/yunustulajapure1234"
+  },
+  {
+    "key": 3,
+    "title": "Muraquibi",
+    "imageSrc":"./assits/hero/muraqibi.png",
+    "description": "This is a project made with complete HTML,CSS,JS,BOOTSTRAP 5.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/yunustulajapure1234"
+  },
+  {
+    "key": 4,
+    "title": "travelville",
+    "imageSrc": "./assits/hero/travel.png",
+    "description": "This is a project made with completeHTML,CSS,JS,BOOTSTRAP 5.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/yunustulajapure1234"
+  },
+  {
+    "key": 5,
+    "title": "React my Portfolio",
+    "imageSrc": "./assits/hero/port.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/yunustulajapure1234"
+  }
+]

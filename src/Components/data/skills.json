@@ -1,0 +1,52 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title":"Github",
+    "imageSrc":"skills/git.jpeg"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/gi.jpeg"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Bootstrap 5",
+    "imageSrc": "skills/botstrap.jpeg"
+  },
+  {
+    "title": "Express JS",
+    "imageSrc": "skills/exg.png"
+  },
+  {
+    "title": "type JS",
+    "imageSrc": "skills/tjs.png"
+  }
+  
+
+]
